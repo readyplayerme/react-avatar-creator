@@ -1,0 +1,12 @@
+{
+    "workbench.editor.defaultBinaryEditor": "jsProfileVisualizer.cpuprofile.table",
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.pinnedTabSizing": "normal",
+    "window.density.editorTabHeight": "compact"
+}
